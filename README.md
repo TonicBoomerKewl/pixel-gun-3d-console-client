@@ -4,7 +4,7 @@
 # Features:
 - Most Features You can Dream Of are Included!
 - Not All Features are Included Below, as I Don't Want to Type 100+ Lines.
-**Basic Features:**
+- **[Basic Features:]**
 - Edit Every In-Game Currency,
 - Unlock Most Things in Armory,
 - Edit Your Player's Level,
@@ -17,11 +17,11 @@
 - Edit Fort & Tank Level of Any Clan,
 - Create Skins / Capes / Logos of Any Size,
 - 100+ More Commands!
-**Advanced Features:**
+- **[Advanced Features:]**
 - Custom Programming Language for Custom Scripts,
 - Custom Scripts to Automate Tasks,
 - Automatically Load Start Script when Program Starts.
-**Features It Doesn't Have:**
+- **[Features It Doesn't Have:]**
 - Join Matches,
 - Unban Players, 
 - Delete Any Clan. (Possible, but Difficult)
