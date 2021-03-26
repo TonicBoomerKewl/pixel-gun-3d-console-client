@@ -9,7 +9,6 @@
 - Unlock Most Things in Armory,
 - Edit Your Player's Level,
 - Edit Your Trophies' Amount,
-- Join Any Clan Forcefully,
 - Crash Any Clans,
 - Force Anyone Into Offline Mode,
 - Capture Entire Clan War Zone at Once,
@@ -41,7 +40,7 @@
 > Can I have the Full List of 100+ Commands?
 - No, Too Lazy to Type Here.
 > Does It Actually Work?
-- Yes, Ask ঊ҉d҉r҉i҉p҉z҉#6969 on Discord, He Bought It.
+- Yes, Just Ask ঊ҉d҉r҉i҉p҉z҉#6969 on Discord, He Bought It.
 > Is It Bannable?
 - Yes, Just Turn on VPN & Create a New Account if Banned.
 > Is There a Free Version?
