@@ -1,11 +1,11 @@
-# Pixel Gun 3D Console Client Made By TonicBoomerKewl#8349!
-- For Playing & Modding Pixel Gun 3D from the Command Line.
+# Pixel Gun 3D Console Client!
+### By: TonicBoomerKewl#8349!
+- For Playing & Modding Pixel Gun 3D from The Command Line.
 
 # Features:
-- Most Features You can Dream Of are Included!
-- Not All Features are Included Below, as I Don't Want to Type 100+ Lines.
-- Use the Help Command for a Full List of Commands.
-- **[Basic Features:]**
+- Most Features You Can Dream Of Are Included!
+- Not All Features Are Included Below; Use the Help Command for a Full List of Commands.
+### **Basic Features:**
 - Edit Every In-Game Currency,
 - Unlock Most Things in Armory,
 - Edit Your Player's Level,
@@ -17,13 +17,13 @@
 - Edit Fort & Tank Level of Any Clan,
 - Create Skins / Capes / Logos of Any Size,
 - A Help Command to Show All Commands,
-- 100+ More Commands!
-- **[Advanced Features:]**
+- 100+ More Commands! (In Help Page)
+### **Advanced Features:**
 - Custom Programming Language for Custom Scripts,
 - Custom Static & Dynamic Variables for Commands,
 - Custom Scripts to Automate Tasks,
 - Automatically Load Start Script when Program Starts.
-- **[Features It Doesn't Have:]**
+### **Features It Doesn't Have:**
 - Join Matches,
 - Unban Players, 
 - Delete Any Clan. (Possible, but Difficult)
@@ -46,8 +46,15 @@
 - Yes, Just Ask ঊ҉d҉r҉i҉p҉z҉#6969 on Discord, He Bought It.
 > Is It Bannable?
 - Yes, Just Turn on VPN & Create a New Account if Banned.
+> How To Use HttpCanary?
+- Watch [This Video](https://www.youtube.com/watch?v=W5hCiSnl9UE) for More Information!
+- Credits to TheSenate420#4200 on Discord for This Video!
+> How Much Does It Cost?
+- About US$50.
+> Which Payment Method Do You Accept?
+- PayPal, Amazon Gift Cards, or, If You're Lucky, Discord Nitros.
 > Is This a Subscription?
-- No; Buy Once, Use Forever.
+- No; Buy Once, Use Forever!
 > Is There Refund If It Gets Patched?
 - No, This Is Non-Refundable.
 > Is There a Free Version?
