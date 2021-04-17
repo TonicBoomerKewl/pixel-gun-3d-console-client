@@ -4,7 +4,7 @@
 
 # Features:
 - Most Features You Can Dream Of Are Included!
-- Not All Features Are Included Below; Use the Help Command for a Full List of Commands.
+- Not All Features Are Included Below; Use the **Help** Command for a Full List of Commands.
 ### **Basic Features:**
 - Edit Every In-Game Currency,
 - Unlock Most Things in Armory,
@@ -17,7 +17,7 @@
 - Edit Fort & Tank Level of Any Clan,
 - Create Skins / Capes / Logos of Any Size,
 - A Help Command to Show All Commands,
-- 100+ More Commands! (In Help Page)
+- **100+ More Commands!** (Listed In Help Page)
 ### **Advanced Features:**
 - Custom Programming Language for Custom Scripts,
 - Custom Static & Dynamic Variables for Commands,
@@ -29,7 +29,7 @@
 - Delete Any Clan. (Possible, but Difficult)
 
 # Purchase:
-- Buy It from TonicBoomerKewl#8349 on Discord! (Me)
+- Buy It from **TonicBoomerKewl#8349** on Discord! (Me)
 - I will Tell You Information such as How to Use It, How to Login to Any Account, etc...
 - Only Supported on Windows 10, but
 - It Can Mod Any Android Account; No Root Required!
@@ -37,26 +37,29 @@
 
 # FAQ:
 > How to Buy It?
-- Add TonicBoomerKewl#8349 on Discord (Me) to Buy.
-> Can It Login to iOS Accounts?
-- Possible, but Only Supported for Android.
+- Add **TonicBoomerKewl#8349** on Discord (Me) to Buy.
+> Can It Login to **iOS** Accounts?
+- Maybe Possible, but Only Supported for **Android**.
 > Can I have the Full List of 100+ Commands?
-- No, Too Lazy to Type Here.
+- Yes, Just Use the **Help** Command to View the **Help Page** for a Full List of Commands.
 > Does It Actually Work?
-- Yes, Just Ask ঊ҉d҉r҉i҉p҉z҉#6969 on Discord, He Bought It.
+- Yes, Just Ask **ঊ҉d҉r҉i҉p҉z҉#6969** on Discord, He Is The First To Buy It.
 > Is It Bannable?
-- Yes, Just Turn on VPN & Create a New Account if Banned.
-> How To Use HttpCanary?
-- Watch [This Video](https://www.youtube.com/watch?v=W5hCiSnl9UE) for More Information!
-- Credits to TheSenate420#4200 on Discord for This Video!
+- Avoid Bans By **Not** Adding Any Friends, **Not** Joining Any Clans, & Using a Common Name Like **"**Skilled Hunter**"**.
+- If You Still Got Banned, Just Turn on VPN & Create a New Account.
+> How To Get **HttpCanary**?
+- Download For Android From **[ApkPure](https://m.apkpure.com/httpcanary-%E2%80%94-http-sniffer-capture-analysis/com.guoshi.httpcanary/download?from=details)**.
+> How To Use **HttpCanary**?
+- Watch **[This Video](https://www.youtube.com/watch?v=W5hCiSnl9UE)** for More Information!
+- Credits to **TheSenate420#4200** on Discord for This Video!
 > How Much Does It Cost?
 - About **US$50**.
-> Which Payment Method Do You Accept?
-- PayPal, Amazon Gift Cards, or, If You're Lucky, Discord Nitros.
+> Which Payment Methods Are Accepted?
+- **PayPal**, Amazon Gift Cards, or, If You're Lucky, Discord Nitros.
 > Is This a Subscription?
 - No; Buy Once, Use Forever!
 > Is There Refund If It Gets Patched?
-- No, This Is Non-Refundable.
+- No, This Is **Non-Refundable**.
 > Is There a Free Version?
 - Yes, in Your Dreams.
 
