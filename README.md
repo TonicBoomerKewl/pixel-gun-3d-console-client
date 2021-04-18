@@ -33,11 +33,11 @@
 - ~~A Working **Screen**, **Keyboard**, **Mouse**, **Computer**, & **Electricity**,~~
 - A Working **Internet Connection**,
 - The **[Discord](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86)** App Installed & Logged In,
-- A Computer Running [Windows 10](https://go.microsoft.com/fwlink/?LinkId=691209) OS,
+- A Computer Running **[Windows 10](https://go.microsoft.com/fwlink/?LinkId=691209)** OS,
 - An **Android 10 or Lower** Phone or **[Emulator](https://www.bignox.com/en/download/fullPackage/win_64?beta)**,
 - The **[Pixel Gun 3D](https://play.google.com/store/apps/details?id=com.pixel.gun3d)** App Installed on **Android**,
 - The **[HttpCanary](https://m.apkpure.com/httpcanary-%E2%80%94-http-sniffer-capture-analysis/com.guoshi.httpcanary/download?from=details)** App Installed on **Android**,
-- Your Pixel Gun 3D's Account **[Websocket Auth](https://www.youtube.com/watch?v=W5hCiSnl9UE)**,
+- Your **Pixel Gun 3D**'s Account **[Websocket Auth](https://www.youtube.com/watch?v=W5hCiSnl9UE)**,
 - A **[Text Editor](https://notepad-plus-plus.org/downloads/)** for **Windows 10**,
 - Lastly, The Knowledge of The Commands to Mod Your **Pixel Gun 3D** Account. (View **Help** Page)
 
