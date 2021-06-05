@@ -1,1 +1,4 @@
-<!--gAAAAABgszpFXbXXjMMD5BQHQWoIM_2aXeQjAEJ3QX5cW3UiDRdxtqu8w6Gy3YQiSVcyWsNiikdOuYaNVCqN7cwWkVWBMXMb2w==-->
+# Nothing to See Here...
+- **[Go Away](https://github.com/TonicBoomerKewl/pixel-gun-3d-console-client)!**
+
+<!--gAAAAABguwSGAsiTLENPBxy4rJG5ccrkpzk4JejVYHWbtww7EhoOUtFrxPKHb1nwMuHqDD4LK9Knxmbx_YlODeedmF5_ptS7Gg==-->
