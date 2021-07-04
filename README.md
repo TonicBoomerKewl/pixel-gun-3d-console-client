@@ -1,11 +1,11 @@
-# Pixel Gun 3D Console Client! (Patched) <img align="right" src="https://cdn.discordapp.com/avatars/203451754275143681/a_041f8c88acda3ecf5177668b4ee58a54.gif"/>
-### By: **TonicBoomerKewl#8349**!
-- For Playing & Modding Pixel Gun 3D from The Command Line.
+# Pixel Gun 3D Console Client! **(Patched)** <img align="right" src="https://cdn.discordapp.com/avatars/203451754275143681/a_041f8c88acda3ecf5177668b4ee58a54.gif"/>
+### By: **TonicBoomerKewl#8349**! **(Patched)**
+- For Playing & Modding Pixel Gun 3D from The Command Line. **(Patched)**
 
-# Features:
+# Features: **(Patched)**
 - Most Features You Can Dream Of Are Included!
 - Not All Features Are Included Below; Use the **Help** Command for a **Full List of Commands**.
-### **Basic Features:**
+### **Basic Features:** **(Patched)**
 - Edit Every In-Game Currency,
 - Unlock Most Things in Armory,
 - Edit Your Player's Level,
@@ -18,17 +18,17 @@
 - Create Skins / Capes / Logos of Any Size,
 - A Help Command to Show **All Commands**,
 - **100+ More Commands!** (Listed In Help Page)
-### **Advanced Features:**
+### **Advanced Features:** **(Patched)**
 - Custom Programming Language for Custom Scripts,
 - Custom Static & Dynamic Variables for Commands,
 - Custom Scripts to Automate Tasks,
 - Automatically Load Start Script when Program Starts.
-### **Features It Doesn't Have:**
+### **Features It Doesn't Have:** **(Patched)**
 - Join Matches,
 - Unban Players, 
 - Delete Any Clan. (Possible, but Difficult)
 
-# Full Requirements:
+# Full Requirements: **(Patched)**
 - ~~A Working **Brain**, **Eyes**, **Hands**, & **Body**,~~
 - ~~A Working **Screen**, **Keyboard**, **Mouse**, **Computer**, & **Electricity**,~~
 - A Working **Internet Connection**,
@@ -41,14 +41,14 @@
 - A **[Text Editor](https://notepad-plus-plus.org/downloads/)** for **Windows 10**,
 - Lastly, The Knowledge of The Commands to Mod Your **Pixel Gun 3D** Account. (View **Help** Page)
 
-# Purchase:
+# Purchase: **(Patched)**
 - Buy It from **TonicBoomerKewl#8349** on Discord! (Me)
 - I will Tell You Information such as How to Use It, How to Login to Any Account, etc...
 - Only Supported on Windows 10, but
 - It Can Mod Any Android Account; No Root Required!
 - You are Not Allowed to Share the File with Anyone Else, or It will be Disabled!
 
-# FAQ:
+# FAQ: **(Patched)**
 > How to Buy It?
 - Add **TonicBoomerKewl#8349** on Discord (Me) to Buy.
 > Can It Login to **iOS** Accounts?
@@ -67,8 +67,8 @@
 - Credits to **TheSenate420#4200** on Discord for This Video!
 > How Much Does It Cost?
 - About **US$50**.
-> Which Payment Methods Are Accepted?
-- **PayPal**, USA Amazon Gift Cards, or, If You're Lucky, Discord Nitros.
+> Which Payment Method is Accepted?
+- Only **USA Amazon Gift Cards**.
 > Is This a Subscription?
 - No; Buy Once, Use Forever!
 > Is There Refund If It Gets Patched?
@@ -78,4 +78,4 @@
 > Can I Buy the **Source Code**?
 - Regardless of How Rich You Are; **No!**
 
-<!--gAAAAABgxFCC_4fTCD5WIJNaxQYAEiPpTihgpwiWoU_OhElm-df1gcye1Y4MNOVD7BKlv3iXOFGDQ4t6eI6t-wCwxoO7fg9gWmZ4cvTPdO6p7frgtcrJ5fwN_X0bFLVbBihWeQE0qQoYH5TJTgsj_8GRcM6MmYd1XpbNpJ0q2azTof43iXRRVzp7gHFBetmoRXqIufVhhH0zje0tJ6APep0cSs6OCboZGVwq6w8zz7aqyp_76Xj12CE5UOmAMO4Gu-naP1d8grSJ0r42dx5aHXoSxRBSeaaC_XLjfOa0qDrwUQHeRZUxxD_3Jc7IUvxT5uJmug65lf0H5UwFhlNZuYJrIQ53E1nXPNNsvjdB8ia3VgCW8qKGtun2YAvWwDhWUn-frmjHK6DtBlJvWaAUqgsST80D8RZ41Pjqeqc9jYkIkdF2O0CSkKpf2f1ZcmVgSA9HFhzCrKF4-iAxJoNQ4GZ0y1w-OaVw9jM2qgOwd-Wr0wUz4A2wVDofQXMqPCs48zJsmfWKFyQ6AIljm1vYIf4WeDZ9lSfwE1dyS1lQyeyj_qm_RejpNN01f8BH5T5uRgYn83BcyG2Vug1qwUprgTmv44YBfjUB7nEgesqmn69VJkwUm384ylrsMUYg0at_i6-czmB3T48IDn2pxgv8wQVYSN6zyiaH3SC-pvMU4OFdQSsehJCGzdgDksbzyeF74nQwhu6f-ZHVLYHlOVT4M40PvlBqY38pwAe7a9qZooEgEaobsuxfCK_0Ld83jvIiEO0eMyN6Klx4trOGZvaLhs67hiLAh9OQCyT3g2nKjiJvAgfusBtlAbwMwFhj4VDbYaLaom3Y2U5cqwbUOH2VS6a6N8qNgUX9ZericpjhCAOYLnz65majmpJd8Y3HrDst76l4Lu6GHIWKDIqoN4jOGxcRJE3b4C7oYeReDdJ6F3yAvP7AZwXrcjCv5injBikixZuJ0GPPc4Nm28-cQuraq1nGF86lB4e6NzPbV-oBF7n0vY1YlWxUb_BCXvIp7goMzSt33PvF7VL-RGQzQLesrNqEJOsC2nc3SUx-nZh_QngjyMoCskoJHxeETCgd238zSXc_Js8o-aidoXkBU9QEGmnAc_rf_Rf6JWlkrAeBwC9ZRFuJNki2M8SSgm3jIYIwE3gT-IX_jEoxIH5II2KycbtKRSDMySr7-OlXEkU54TfMivB4S97JNPneK4-vmFGfbT5EhZFi7BpW0Bt6rOUQfxHStnOTFfx-78aInF0Nf5ILYLp9i0cMo3fZyqaKpIw1b5Xz8CKxyPEHFTrNNXmHfG45CjROcXfTKcRjvpDST8o687AfjujBpStTSPlloTtOCSVLPYC_t-C7yJBQ3C-BdGDsTuSAz4vxB0vAE8FtT0lSlhTqbf2PrsgjLk0iHXXHTeUybywIZCVn5DtYYJjHO_ByRUDZM1gfrA8Hun0R-CPVapjCWpdC3cUHe4xNLAhLlIAEY0sZlikrp7BP2cAkaronRi5bbrHFDCBp4f9TIVmNYol-JiY_xWOzYdAXimQdNq-6NQzgokrYDAQNv7Zl6OxlADpLicKJbD0l2d83-QM7A0VYH8k6QUacm8Y-8_Cs5JnnzaobEA4ndQnBB59cqAhymQE0n6M-fogrgJHNeWfPewoUFSV_l14vQjmj-Rgad9y_AwzRzYgAopKse02qVTStk9v7MgPhYe21NLAgZbtianhUtAKAGmlElxmBwpykbupr1HNSgACZZ9BiMGQsS4Bjwi812HuShlZnnrhhcphQNv5zAKz1X9ZFk2bPS7NBbg-_5PQMrnV9Q176VL9fRQeEOxavRUgCmpH988UseZ-yCEEXzEleS-v_wYVl7Np5eCAgVWeFIXBJwwBymyxldIZdrzCpUhe_yf4Eu674RdbE3nsPmzRZ6BTpTGYZ5DPJ8Kk-NNa3mR55t-ptFDq6cIUKFfG6249OmsZk4D-AqgQDGM0gCUtfWHR4q9aFMeTwdVJkcLM1tAR3OmQkWSvWj-VakPU8tTMO7dr4wPV7LMg3_A5PN4Dd1jVDJg1Tix7raoSlcYC1-QdHnAD6MVNjBqhoXLnYc1b2DtKcdJBEcv1F75PEBZEMlibm0z4jRNuoGyM52SGkR7UuT7i_zPCJ8XkHJ9HBYWzyoP0G08fZivTVsjot49k71bnTqDy8Kf3JX-9DWHrqygbvl13-ppZvlnl-TzzUlQioZ-Gig572kE_E_jdHFng8Uo-T5cHd9iagVCrxvx--YSkCQFAqkLq02XNINxgcYBbg1KDrH1FiMfZDEkH115Tk7iesPdjB619PNakPUJ-cJy3eAxQx6sFN3MGerxDCjbb1h01bNi6UUbohx40jVoyAJZzEuVj4WEt9it6fioUUGu1Iex3IdOvhYlovx6W0yZ-sF_Takv0h22AwiQW8ewkFnqheXMXG2qSQ_x2e31GlJHZZ0Dhu_9jSTb7aSrTy-p5Q89G_L4foCUC0-idurjr73QyWod1ca4G7afppQZXE0zeq_gEZL4k08ZFtD5KdNCCid44hdh9JlU9aI7qGQZkwbVpp7Mp8hwhYxVWof-6IIt1iqMhDh8tRghMXBVizpreKKyIIZj_TO1BBqTBoopsW5pOqEOlPdA55eNhSYrzl14sMAInWLJrZUa-cEedRq7MeGo63r1CrI81L4Ru9IfVbOmnU10WdB9yBcgmyr6wrvDicTDNJjeeA92Mhqwa_lBNKQyKt6-emJDISd8GM0kVG6PytZTrRUzHFZVYl5VVOM2UZk30ILwl7s9S7pNG7O9A8vbOdqS7R_16qo2lTkyEeMTgkTiJrarPP2izKkoMEIp1A-->
+<!--gAAAAABg4TXKlfMynnNeHSDRFoxdqh2v3O9J2kALBlItQLvfk_YvM7SlHOqWupuTplybSnHsw70bnFn6kzJo5rC8LKLK7rnQl9eS40mt5cJr4RshW27XKnZ9bLGICqtSuynM2rAVd3DOCiJiU6R9MrxtBKM7TtMipy8yWE9oKtp1nWElccLjMXGcWIXmSb449OzJF1Ct6gLC1v6HcFmjtfdyfg1VOsiqGRVpmCDdOPDMy_s0QAcvIp633aWxNgEVsSXgMhr2g5_n7sOz6_tsK_Zzba5VL7d0UN52Y6SJMhroCvp2zvXvD3qlZ224QNQY_woWqZ0t2vY908EJoX8HIQI2YJXbYSC-FlUjiIVHD5cfDpIa7633C2c8TWaU-u_iIcybjsgPZ3_fnE0GtObWH9pV2yqi21wmP3tYd1pVRtWixoVzHytKX5NAs7e5_EavbHvGKPVmQuVqFcfD7qbYKkfliVdiOGRE75_UsjjdfKlnxPmzli43zLbVrDejFo3tXBGUd9AJtc8k1YuFiLBgkXbiWuoCoi1OdmDUTPSL1ochHrh3b1qG63BgecC0IjMS0tz9p79oA4ATVZ2-EbaF7WPx-qK8MFvZYE5oNiDYtY3E9lpvwFaygnMJikfZ3Ofm2TE5L-HoHgKfqMe1RkAEqkiEV8nM8rpcTSMdhX53NiPWBxze9OIi292Sv84AIwcLmORsLvDAkfqdkRDDi9M7ZLdeXAPicSVTYBp4RqiG5nAo67ugBk-lbQYktiZdisOswsEazzeLiHUZD4bzFItfc5j77EX0YkUFERcQOjg5zoR70B1S877BKrSY_15itcTEgCGUz4SmHDQKKewTE9vI7VSjB2gBCuRrwli6HVJYcIMIVlGgnYGmqLf1ie65XgP69KCJsIAHFRZl62D2S7atDy0QXJ59_YpvXu_fQScC2h-hHkZpp_W-LjnsEdulcA3--5eRL-tMtO7YmCHK84lUr1-J08d6bh6TX7ZuykudvTEUAEyk6_27LASmM-_k1dGk5G2e107Bbi88oJ_Li5nUgHGpZztWbawqrtG7RW92wbf7vsfb5jLWGt8CYFvlBAtxyUK_LlQ0VwDsfsNiBg85bo1J5fx9qL_oOpMFzbc_d6o1g_6EW9b29fG0IEMAv9o6W2MG9LhcBHYSub6EYT5QblVrqkddSKgQ8WmiyHw03yMyYAW9YT4VmQaJnYNAQL0G4yW9dQiY1sjGqHb0dSFjU_QQpI5UuJbSjo8y7KCrarv6AmBpYWFZC_ujmHLVh3c9-jsuyoqpFp9fna1aEp8AVOYdxV8SW2OAwE74taJPufALuy1Ik-rv4nUJ6BD0EGtBzSl9zHQuSqM6ECo8YJhRGc0qM6yH41IQ-xcBfrquxAHoQLY-ymXXE_a5wAttQHnJBuTMSGXJOglQJKg2ahG_fZrg3z_Q3Rf3dc9SPT8MeuhPJH9EdrWsANrFD7yehxUusAqd1ctuCXbCnOMxXcyTWxCc4rVQrN5bwaQsvMOuZ-FnA64XeNj6Rk_aR0gkIaahPZzgB-sHjLeSFLjvwBBsaKmXcvoYMQzAqJ77CSXmRqRv0fcXGY6uDpZaBJGYyZVhLKMF6WqIZsldrZ9IfBob-Jfo3cCbQnC7Iz6zYDsAbJhg6LO-LkVYVsnZKJiW5Ba3sNH5rtSiv4Qg_M9-fwFNSyO6XFokqEU55wRYjXD2Ntx9s5I6zVyRV5UIkk0Mo_aatSVJ09jagbbmXEdcxHh1XlpmGzzWO9LiGHAEH2kcBx1W5BCzcH3Dj4mAq2ns7y3TuaSrinV0x3Aqz3bK5F59JEcuHKW28LmldcFSnX4H2kpJabd9g2rw6EUq_SyWWCQvbB6LAekGadjDmf95_yx8srl_4jwoQTpA0a69_-2Amx8gfNX72MkdTqKSp5BrRgYmYbmiqIDenOjWKkz7eUGk9_WY7bKv5vcvhfZOmOsm_lKzGmExfqFfqfyf8VVxKzk-F5Gh-LdddOvfWXmrVOJwvA129s3K4nWDbdutuDRdFsAqCdumDmP_23B32dZ44LyN529HXpakfMFz-SUGrIfyYB5mqUkgHewZtTMRaxCqSIuGSBA1-PdqvozPebutF5E4wSAUStKMipVblwMD1_UO9DzfOaiAHTidXO-haWneL83V704p1IfFOWXvPnOLZIiNS7UA72POpJB_o5w4AptZPlddObJ2oNZbP47ckVrHHoRi74D7eJCCYLkoSVVWQzIHGkGgDdEChyDpxzQrDwmPsAw9yDnkTD-1uXN_9D_-GCBXtJ2xCQVDE2T-5x7Hq90F8Kh-ufCzVFyTAiFwy9kqS5RW9P-rAsGuYRL1gf-uOKudmBMgdEteO1yYc36HsNDk34EgY96Co-nBPEHstTt1JUKsEQEfyPsCs6PptKLKg_wYl3LpbUyUsWW41yQWyWXEtx6K4-jPAW8eU-GZKdAdZ2NKLIGhKh0eYArP-X6aj61SYCBujriMRhEdyDaf7-ghepi3RYEUpjKVsQnwMufyZUMkj2EkSjjnLFYPY0FT1Q35nG0Ys_5NcVO83SIom9GPE5O-PX7EQEDmcjw81uzux6xJnj7pL4T-TLfXE1vxY5F7mmOy3BflgAlUB3Lw0DMbgYMLgY3omD9GXuhi4FFyVHUJ6K5QC5z0og==-->
