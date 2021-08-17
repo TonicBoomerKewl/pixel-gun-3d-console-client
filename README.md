@@ -1,11 +1,11 @@
-# Pixel Gun 3D Console Client! **(Patched)** <img align="right" src="https://cdn.discordapp.com/avatars/203451754275143681/a_041f8c88acda3ecf5177668b4ee58a54.gif"/>
-### By: **TonicBoomerKewl#8349**! **(Patched)**
-- For Playing & Modding Pixel Gun 3D from The Command Line. **(Patched)**
+# Pixel Gun 3D Console Client! <img align="right" src="https://cdn.discordapp.com/avatars/203451754275143681/a_041f8c88acda3ecf5177668b4ee58a54.gif"/>
+### By: **TonicBoomerKewl#8349**!
+- For Playing & Modding Pixel Gun 3D from The Command Line.
 
-# Features: **(Patched)**
+# Features:
 - Most Features You Can Dream Of Are Included!
 - Not All Features Are Included Below; Use the **Help** Command for a **Full List of Commands**.
-### **Basic Features:** **(Patched)**
+### **Basic Features:**
 - Edit Every In-Game Currency,
 - Unlock Most Things in Armory,
 - Edit Your Player's Level,
@@ -18,17 +18,17 @@
 - Create Skins / Capes / Logos of Any Size,
 - A Help Command to Show **All Commands**,
 - **100+ More Commands!** (Listed In Help Page)
-### **Advanced Features:** **(Patched)**
+### **Advanced Features:**
 - Custom Programming Language for Custom Scripts,
 - Custom Static & Dynamic Variables for Commands,
 - Custom Scripts to Automate Tasks,
 - Automatically Load Start Script when Program Starts.
-### **Features It Doesn't Have:** **(Patched)**
+### **Features It Doesn't Have:**
 - Join Matches,
 - Unban Players, 
 - Delete Any Clan. (Possible, but Difficult)
 
-# Full Requirements: **(Patched)**
+# Full Requirements:
 - ~~A Working **Brain**, **Eyes**, **Hands**, & **Body**,~~
 - ~~A Working **Screen**, **Keyboard**, **Mouse**, **Computer**, & **Electricity**,~~
 - A Working **Internet Connection**,
@@ -41,14 +41,14 @@
 - A **[Text Editor](https://notepad-plus-plus.org/downloads/)** for **Windows 10**,
 - Lastly, The Knowledge of The Commands to Mod Your **Pixel Gun 3D** Account. (View **Help** Page)
 
-# Purchase: **(Patched)**
+# Purchase:
 - Buy It from **TonicBoomerKewl#8349** on Discord! (Me)
 - I will Tell You Information such as How to Use It, How to Login to Any Account, etc...
 - Only Supported on Windows 10, but
 - It Can Mod Any Android Account; No Root Required!
 - You are Not Allowed to Share the File with Anyone Else, or It will be Disabled!
 
-# FAQ: **(Patched)**
+# FAQ:
 > How to Buy It?
 - Add **TonicBoomerKewl#8349** on Discord (Me) to Buy.
 > Can It Login to **iOS** Accounts?
